@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Tab the Ball\Scripts\UIController.cs">
+    <Files>
+      <File FileName="Assets\Tab the Ball\Scripts\barController.cs" Line="43" Column="26" />
+      <File FileName="Assets\Tab the Ball\Scripts\GameController.cs" Line="16" Column="21" />
+      <File FileName="Assets\Tab the Ball\Scripts\SpalshScreen.cs" Line="15" Column="2" />
+      <File FileName="Assets\Tab the Ball\Scripts\UIController.cs" Line="77" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
